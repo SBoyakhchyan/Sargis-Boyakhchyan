@@ -1,2 +1,4 @@
-# Sargis-Boyakhchyan
-First Rep.
+//Sargis-Boyakhchyan
+
+It is my firts repository
+
